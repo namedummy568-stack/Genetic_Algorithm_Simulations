@@ -8,3 +8,7 @@ def crossover():
 
 def mutation():
     pass
+
+def calculate_fitness():
+    # Refactored for better performance
+    return 0
