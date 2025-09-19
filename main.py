@@ -5,3 +5,6 @@ def selection():
 
 def crossover():
     pass
+
+def mutation():
+    pass
